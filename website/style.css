@@ -1,0 +1,56 @@
+
+/* Rectangle 2: */
+body{
+  background-color: #DAD8D8;
+}
+.rectHacking{
+  background: #709ED4;
+  border: 1px solid #979797;
+  border-radius: 8px;
+  width: 100px;
+}
+
+.navBar{
+  background: #FFFFFF;
+  border: 1px solid #979797;
+  border-radius: 15px;
+}
+
+ .h1{
+  padding-left: 1%;
+  font-family: AvenirNext-Medium;
+  font-size: 22px;
+  color: #4A4A4A;
+  margin: 3px;
+  letter-spacing: 0;
+ }
+
+ .component1{
+  background: #ECECEC;
+  border: 1px solid #979797;
+  border-radius: 15px;
+ }
+
+ .h2{
+  padding-left: 1%;
+  font-family: AvenirNext-DemiBold;
+  font-size: 30px;
+  color: #709ED4;
+  letter-spacing: 0;
+ }
+
+ .rectangle{
+   /* Rectangle 2: */
+  background: #709ED4;
+  border: 1px solid #979797;
+  border-radius: 8px;
+
+}
+
+.donate{
+  padding-left: 1%;
+  font-family: AvenirNext-Medium;
+  font-size: 25px;
+  color: #FFFFFF;
+  letter-spacing: 0;
+ }

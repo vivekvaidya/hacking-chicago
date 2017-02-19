@@ -1,0 +1,12 @@
+
+
+    {
+        "labels": ["Resources", "Customers", "Staff", "Other"],
+        "datasets:" [ {
+              //integer array, same size as labels
+              "data": [40, 10, 23, 27],
+              //array of colors
+              "backgroundColor": ["#FF6384", "#36A2EB", "#FFCE56", "#00FF00"],
+              "hoverBackgroundColor": ["#FF6384", "#36A2EB", "#FFCE56", "#00FF00"]
+        }]
+    }
