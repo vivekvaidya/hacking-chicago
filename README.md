@@ -1,2 +1,2 @@
 # hacking-chicago
-later
+Our code for the hacking chicago Impact Investing project. 
